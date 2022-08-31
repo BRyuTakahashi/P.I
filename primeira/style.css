@@ -1,0 +1,18 @@
+/* 
+isso eh um comentario extendido
+funciona para varia linhas
+*/ 
+.titulo {
+    color: red;
+    background-color: yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.subtitulo {
+    color: green;
+}
+
+.titulo {
+    color: blueviolet;
+    background-color: orange;
+}
